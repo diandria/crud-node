@@ -1,10 +1,10 @@
 # crudNode
 Uma API em Node.js que realiza operações CRUD com MongoDB utilizando express.
 
-- instalar dependencias
+- Instalar dependencias
 `$ npm i`
 
-- iniciar a aplicação
+- Rodar o servidor
 `$ node src/index.js`
 
 - Testes devem ser realizados no Postman, Insomnia ou similares
