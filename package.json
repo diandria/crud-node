@@ -1,13 +1,13 @@
 {
   "name": "crudnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Uma API em node que realiza operações CRUD utilizando express e MongoDB",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Diandria Xavier",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
