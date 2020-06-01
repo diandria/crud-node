@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+//Recebe todas as rotas criadas de forma automatica ignnorando o arquivo index.js
 module.exports = app => {
     fs
         .readdirSync(__dirname)
