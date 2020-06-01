@@ -1,6 +1,7 @@
-const mongoose = require('../../database');
-const bcrypt = require('bcryptjs');
+const mongoose = require('../../database'); //usado para conexão com banco de dados
+const bcrypt = require('bcryptjs'); //usado para criptografar  a senha do usuario
 
+//criação do campos
 const TaskSchema = new mongoose.Schema({
     title: {
         type: String,
