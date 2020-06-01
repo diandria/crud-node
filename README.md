@@ -1,5 +1,5 @@
 # crudNode
-Uma API em node que realiza operações CRUD utilizando express e MongoDB
+Uma API em Node.js que realiza operações CRUD com MongoDB utilizando express.
 
 - instalar dependencias
 `$ npm i`
